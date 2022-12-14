@@ -3,7 +3,7 @@ This project aims to enabling the execution of CRUD operations for the user enti
 
 ## Stack
 - Java
-- Spring boot 2asdsad
+- Spring boot 2
 - Gradle
 - Reactive Proggraming
 - Mockito
