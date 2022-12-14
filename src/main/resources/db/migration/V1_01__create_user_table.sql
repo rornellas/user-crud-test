@@ -1,0 +1,8 @@
+CREATE TABLE auth_user
+(
+    "ID" LONG AUTO_INCREMENT PRIMARY KEY,
+    "DOCUMENT" VARCHAR(20) NOT NULL,
+    "NAME"  VARCHAR(100) NOT NULL,
+    "CREATED_AT"  timestamp  NOT NULL,
+    "UPDATED_AT"  timestamp
+);
